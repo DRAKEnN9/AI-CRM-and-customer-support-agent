@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "salon-ai"
+version = "0.1.0"
+description = "AI Customer Support Agent for Hair Salon"
+authors = ["Senior AI Engineer"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.0"
+uvicorn = {extras = ["standard"], version = "^0.27.0"}
+pydantic-settings = "^2.2.1"
+sqlalchemy = {extras = ["asyncio"], version = "^2.0.28"}
+asyncpg = "^0.29.0"
+alembic = "^1.13.0"
+redis = "^5.0.1"
+celery = "^5.3.6"
+litellm = "^1.41.0"
+langgraph = "^0.0.30"
+langchain = "^0.1.14"
+langchain-openai = "^0.1.1"
+pgvector = "^0.3.0"
+python-dotenv = "^1.0.1"
+httpx = "^0.26.0"
+phonenumbers = "^8.13.35"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

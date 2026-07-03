@@ -1,0 +1,22 @@
+Salon AI Knowledge Base
+========================
+Location: 123 Glow Street, Downtown Metropolis.
+Hours: Monday-Friday 9am-7pm, Saturday 10am-6pm, Sunday Closed.
+Cancellation Policy: Please cancel at least 24 hours in advance. Cancellations made within 24 hours will be charged 50% of the service price. No-shows are charged 100%.
+
+Our Services:
+- Women's Haircut & Style: $60 (60 min)
+- Men's Haircut: $30 (30 min)
+- Full Color: $120 (120 min)
+- Highlights: $150 (180 min)
+- Beard Trim: $20 (15 min)
+
+Our Staff:
+- Sarah: Senior Stylist, expert in coloring and highlights.
+- Mike: Master Barber, specializes in fades and beard grooming.
+- Elena: Specialist in curly hair and organic treatments.
+
+FAQs:
+- Do you accept walk-ins? Yes, but we strongly recommend booking via WhatsApp to ensure a slot.
+- Where can I park? There is free parking available in the lot behind the salon.
+- Do you offer bridal packages? Yes, we have a comprehensive bridal package that includes a trial and wedding day styling. Contact us for a custom quote.
